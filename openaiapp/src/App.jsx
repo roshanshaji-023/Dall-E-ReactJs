@@ -61,7 +61,7 @@ function App() {
         </>
       )}
       {
-        <h6>Made as a learn-by-do project ! <a href="https://github.com/roshanshaji-023">View Source Code</a></h6>
+        <h6>Made as a learn-by-do project ! <a href="https://github.com/roshanshaji-023/Dall-E-ReactJs/">View Source Code</a></h6>
       }
     </div>
   );
