@@ -16,6 +16,7 @@ Clone this repository to your local machine or download a zip file of it
 </h4><br>
 I have used viteJS for the react installation<br>
 install viteJS via terminal<br>
+install openai<br>
 get an API key from openAI<br>
 paste the key on .env file<br>
 now execute npm run dev<br>
